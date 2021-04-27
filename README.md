@@ -12,3 +12,20 @@ Sistema em php, com interface, com CRUD* completo e base de dados
 OBS.: Certifique-se antes de executar o XAMPP e startar os services Apache e MySQL;
 
 *CRUD: Create (criar), Read (ler), Update (atualizar) e Delete (excluir).
+
+
+
+
+System in php, with interface, with complete CRUD * and database
+
+-System in PHP, performs complete CRUD *, has interface and database;
+
+-I used XAMPP's phpmyadmin to run the database locally and run and run tests on the system in the Eclipse IDE;
+
+-To make this system work on your machine, you only need an IDE like Eclipse and a local server, like XAMPP;
+
+-To install the database through Phpmyadmin, first open your browser and access http: // localhost / phpmyadmin /, after that go to the "import" tab and then click on the "choose file" button next to "search in computer" and finally run just below;
+
+NOTE: Make sure before running XAMPP and starting the Apache and MySQL services;
+
+* CRUD: Create, Read, Read, Update and Delete.
