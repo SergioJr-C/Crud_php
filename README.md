@@ -16,6 +16,8 @@ OBS.: Certifique-se antes de executar o XAMPP e startar os services Apache e MyS
 
 
 [ENGLISH]
+
+
 System in php, with interface, with complete CRUD * and database
 
 -System in PHP, performs complete CRUD *, has interface and database;
@@ -28,4 +30,4 @@ System in php, with interface, with complete CRUD * and database
 
 NOTE: Make sure before running XAMPP and starting the Apache and MySQL services;
 
-* CRUD: Create, Read, Read, Update and Delete.
+* CRUD: Create, Read, Update and Delete.
