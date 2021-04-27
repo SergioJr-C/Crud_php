@@ -11,7 +11,7 @@ Sistema em php, com interface, com CRUD* completo e base de dados
 
 OBS.: Certifique-se antes de executar o XAMPP e startar os services Apache e MySQL;
 
-*CRUD: Create (criar), Read (ler), Update (atualizar) e Delete (excluir).
+* CRUD: Create (criar), Read (ler), Update (atualizar) e Delete (excluir).
 
 
 
